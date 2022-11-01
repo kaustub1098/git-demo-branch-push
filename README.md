@@ -1,2 +1,2 @@
 # git-demo-branch-push
-to understand branch and push
+# this project has software like visual studio and postman.
